@@ -17,4 +17,5 @@ Guidelines:
 11. Then open the code, Run the first cell for importing the packages, and in the next cell you will find the instruction to put the csv file path and those .xlsx file path there
 12. Then follow all the instruction for Pre-processing the data
 13. After pre-processing is done following the instruction given there, Run all the codes below and you will get 2 pictures inside the 'Final VIZ' and 'Top Players Viz' group
- 
+
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
